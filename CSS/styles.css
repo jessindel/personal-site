@@ -50,6 +50,16 @@ a:hover {
   color: #e7b2a5;
 }
 
+* {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        outline: 0;
+        font-size: 100%;
+        vertical-align: baseline;
+        background: transparent;
+    }
+
 .top-container {
   position: relative;
 }
